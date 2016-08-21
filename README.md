@@ -3,10 +3,10 @@
 
 # 교재
 * PART I
-*마케팅 분석실습 기초 - (https://www.amazon.com/Marketing-Data-Science-Techniques-Predictive/dp/0133886557)
-*마케팅 자연어처리 기초 - (https://www.amazon.com/Natural-Language-Processing-Python-Bird/dp/0596516495/)
-*웹 사이트 최적화를 위한 밴디트 알고리즘 - (http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=59519967)
-*행동 경제학 - (http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=24662388
+* 마케팅 분석실습 기초 - (https://www.amazon.com/Marketing-Data-Science-Techniques-Predictive/dp/0133886557)
+* 마케팅 자연어처리 기초 - (https://www.amazon.com/Natural-Language-Processing-Python-Bird/dp/0596516495/)
+* 웹 사이트 최적화를 위한 밴디트 알고리즘 - (http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=59519967)
+* 행동 경제학 - (http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=24662388
 
 # 커리큘럼
 <b>PART I (진행 중)</b>
