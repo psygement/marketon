@@ -12,7 +12,7 @@
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
 | 1 |  8/19  | (마켓분석)1.Understanding Markets | 김성근  | [발표자료]()                              |
 |   |        | (MAB) 3.엡실론-그리디 알고리즘 | 임재성  | [발표자료]()                               |
-|   |        | (NLP)1.Language Processing and Python | 김성동  | [발표자료]                              |
+|   |        | (NLP)1.Language Processing and Python | 김성동  | [발표자료]()                              |
 | 2 |  8/26  | (마켓분석)2. Predicting Consumer Choice | 김성근  | [발표자료]                              |
 |   |        | (행동경제) 2.합리성과 선택기분| 김무성 | [발표자료]                               |
 |   |        | (NLP)2. Accessing Text Corpora and lexical Recources | 임재성  | [발표자료]                              |
